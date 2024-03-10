@@ -1,7 +1,7 @@
 # My Gentoo GNU/Linux dotfiles
 
-* wm - i3
-* bar - i3status
-* editor - nvim
-
 ![Workspace](screenshot.png)
+
+###### WM - i3
+###### BAR - i3status
+###### EDITOR - nvim
