@@ -1,5 +1,7 @@
 # My Gento GNU/Linux dotfiles
 
-wm - i3
-bar - i3status
-editor - nvim
+* wm - i3
+* bar - i3status
+* editor - nvim
+
+!(screenshot.png "screenshot")
