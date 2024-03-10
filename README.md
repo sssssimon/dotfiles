@@ -2,6 +2,6 @@
 
 ![Workspace](screenshot.png)
 
-###### WM - i3
-###### BAR - i3status
-###### EDITOR - nvim
+#### WM - i3
+#### BAR - i3status
+#### EDITOR - nvim
