@@ -4,4 +4,4 @@
 * bar - i3status
 * editor - nvim
 
-!(screenshot.png "screenshot")
+![Workspace](screenshot.png)
